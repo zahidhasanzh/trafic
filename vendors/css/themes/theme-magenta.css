@@ -1,0 +1,21 @@
+.boxed_btn, input[type="submit"], button[type="submit"], .mainmenu.theme_1 li:hover li:hover >a, .slicknav_btn, .slicknav_nav 
+ .slicknav_row:hover,.slicknav_nav a:hover, .testimonial_text:after, .active .testimonial_text ,.active .quote_icon,
+.case_study_wrapper, .owl-dots button.owl-dot.active, .video_play_btn, .mainmenu li:hover li:hover >a, .boxed_btn, input[type="submit"], button[type="submit"], .theme_3 .case_study_wrapper, .theme_2 .case_study_wrapper::after, .gm-style .gm-style-iw-c
+{
+    background-color:#9B59B6;
+}
+.mainmenu.theme_1 li:hover >a, .menu_cta.theme_1 h4 span, .menu_cta h4 span, .single_service_box:hover a.service_readmore_btn, .pricing_count,
+ .single_service_box:hover h3, .section_icon, .feature_icon, .footer_area.theme_4 ul li a:hover, .footer_area.theme_2 ul li a:hover,
+.single_service_box:hover .service_icon,.footer_area ul li a:hover, .mainmenu li:hover >a, .blog_readmore_btn {
+    color:#9B59B6;
+}
+.single_service_box:hover, .single_pricing_box:hover, .single_pricing_box:hover .pricing_heading{
+    border-color:#9B59B6;
+}
+.gm-style .gm-style-iw-t::after {
+    background: linear-gradient(45deg,#9B59B6 50%,#9B59B6 51%, #9B59B6 100%);
+}
+.Switcher__control i.zmdi{
+    color:#9B59B6;
+    font-size:20px;
+}
